@@ -1,1 +1,1 @@
-PLACEHOLDER
+$(cat /tmp/mealie_pr/requirements-dev.txt)
